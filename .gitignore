@@ -105,3 +105,9 @@ RelWithDebInfo
 
 #vim backups
 *.*~
+
+# Other backup files
+*~
+
+# Local build directory
+build/
